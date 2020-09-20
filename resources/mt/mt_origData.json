@@ -1,0 +1,18 @@
+{
+	"mapping_table_name" : "origData",
+	"index" : "silverrobot4d",
+	"docType" : {
+		"gait" : "gait",
+		"pose" : "pose",
+		"bio" : "bio",
+		"voice" : "voice",
+		"scale" : "scale",
+		"smartthing" : "smartthing",
+		"openapi" : "openapi",
+		"sleptime" : "usertime",
+		"gait_analysis" : "gait_analysis",
+		"pose_analysis" : "pose_analysis",
+		"bio_analysis" : "bio_analysis",
+		"voice_analysis" : "voice_analysis"
+	}
+}

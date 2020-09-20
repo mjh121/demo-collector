@@ -1,0 +1,18 @@
+{
+	"mapping_table_name" : "logfile",
+	"index" : "SilverRobot",
+	"docType" : {
+		"vision_gait" : "vision_gait_4.log",
+		"vision_walk" : "vision_gait_4.log",
+		"bio" : "bio_4.log",
+		"voice" : "voice_4.log",
+		"scale" : "scale_4.log",
+		"smart_sensor" : "smart_things_4.log",
+		"open_api" : "open_api_4.log",
+		"slep_time" : "slep_time_4.log",
+		"vision_gait_analysis_4.log" : "",
+		"vision_walk_analysis_4.log" : "",
+		"bio_analysis" : "bio_analysis_4.log",
+		"voice_analysis" : "voice_analysis_4.log"
+	}
+}

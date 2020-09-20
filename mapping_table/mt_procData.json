@@ -1,0 +1,11 @@
+{
+	"mapping_table_name" : "procData",
+	"index" : "SilverRobot",
+	"docType" : {
+		"vision_gait_analysis" : "",
+		"vision_walk_analysis" : "",
+		"gear_analysis" : "",
+		"voice_analysis" : "",
+		"scale_analysis" : ""
+	}
+}
